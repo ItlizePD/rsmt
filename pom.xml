@@ -10,6 +10,6 @@
         <module>others</module>
         <module>resource</module>
         <module>auth</module>
-        <module>eureka</module>
+        <module>discoveryserver</module>
     </modules>
 
